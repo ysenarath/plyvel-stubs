@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "plyvel-stubs"
-version = "1.5.1"
+version = "0.0.1"
 description = "Type stubs for plyvel"
 readme = "README.md"
 license = { file = "LICENSE" }
